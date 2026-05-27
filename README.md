@@ -3,9 +3,12 @@
 `deepujain`'s open-source contributions across GitHub pull requests and
 tracker-based patch submissions.
 
-Grateful to keep contributing across open-source projects, from Apache and
-PyTorch to Inspect AI, Slurm, and more. Each PR is a chance to learn,
-collaborate, and leave the ecosystem a little better than before.
+Deepak Jain's GitHub handle:
+[deepujain](https://github.com/deepujain)
+
+I am grateful to keep contributing across open-source projects. Each PR is a
+chance to learn, collaborate, and leave the ecosystem a little better than
+before.
 
 ## Contribution Matrix
 
@@ -34,4 +37,3 @@ collaborate, and leave the ecosystem a little better than before.
 | Apache Pig | PIG-1885, PIG-671 |
 | Apache Druid | Pull-561 |
 | Scoobi | Pull-355, Pull-356 |
-
