@@ -29,6 +29,25 @@ Deepak Jain's GitHub handle: [deepujain](https://github.com/deepujain)
 
 ## Additional Contributions
 
-| Project | Ecosystem | Role | Problem Solved | Tech Stack | Metrics |
-|---------|-----------|------|----------------|------------|---------|
-| <a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a>&nbsp;<a href="https://github.com/eBay/nvidiagpubeat">nvidiagpubeat</a> | <a href="https://www.elastic.co/docs/extend/beats/community-beats"><img src="https://avatars.githubusercontent.com/u/6764390?v=4" alt="Elastic logo" height="18"></a>&nbsp;<a href="https://www.elastic.co/docs/extend/beats/community-beats">Elastic Beats</a>; <a href="https://discuss.elastic.co/t/nvidiagpubeat-monitor-nvidia-gpus-using-this-beat/79644">announcement</a> | Creator, architect, maintainer | NVIDIA GPU observability through `nvidia-smi` / NVML metrics shipped into Elasticsearch. | Go, Elastic Beats, Elasticsearch, NVIDIA SMI/NVML, Python | 56 stars, 18 forks |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Ecosystem</th>
+      <th>Role</th>
+      <th>Problem Solved</th>
+      <th>Tech Stack</th>
+      <th>Metrics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap="nowrap" width="180"><a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a>&nbsp;<a href="https://github.com/eBay/nvidiagpubeat">nvidiagpubeat</a></td>
+      <td><a href="https://www.elastic.co/docs/extend/beats/community-beats"><img src="https://avatars.githubusercontent.com/u/6764390?v=4" alt="Elastic logo" height="18"></a>&nbsp;<a href="https://www.elastic.co/docs/extend/beats/community-beats">Elastic Beats</a>; <a href="https://discuss.elastic.co/t/nvidiagpubeat-monitor-nvidia-gpus-using-this-beat/79644">announcement</a></td>
+      <td>Creator, architect, maintainer</td>
+      <td>NVIDIA GPU observability through <code>nvidia-smi</code> / NVML metrics shipped into Elasticsearch.</td>
+      <td>Go, Elastic Beats, Elasticsearch, NVIDIA SMI/NVML, Python</td>
+      <td>56 stars, 18 forks</td>
+    </tr>
+  </tbody>
+</table>
