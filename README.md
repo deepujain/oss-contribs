@@ -36,4 +36,4 @@ before.
 
 | Project | Contributions |
 |---------|---------------|
-| nvidiagpubeat | Creator, architect, and maintainer of an NVIDIA GPU monitoring Beat for the Elastic stack, with 50+ stars and 20+ forks |
+| <a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a> <a href="https://github.com/eBay/nvidiagpubeat">eBay/nvidiagpubeat</a> | I was the creator, architect, and maintainer of the project until I left the company. The project has 56 stars and 18 forks. |
