@@ -35,4 +35,4 @@ communities.
 
 | Project | Contributions |
 |---------|---------------|
-| <a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a> <a href="https://github.com/eBay/nvidiagpubeat">nvidiagpubeat</a> | I was the creator, architect, and maintainer of the project until I left the company. The project has 56 stars and 18 forks. |
+| <a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a>&nbsp;<a href="https://github.com/eBay/nvidiagpubeat">nvidiagpubeat</a> | I was the creator, architect, and maintainer of the project until I left the company. The project has 56 stars and 18 forks. |
