@@ -6,6 +6,8 @@ tracker-based contributions.
 Deepak Jain's GitHub handle:
 [deepujain](https://github.com/deepujain)
 
+I have been contributing to open source for more than a decade.
+
 Every PR is a chance to learn something new and collaborate with amazing
 communities.
 
@@ -33,6 +35,6 @@ communities.
 
 ## Additional Contributions
 
-| Project | Contributions |
-|---------|---------------|
-| <a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a>&nbsp;<a href="https://github.com/eBay/nvidiagpubeat">nvidiagpubeat</a> | I was the creator, architect, and maintainer. It solved NVIDIA GPU observability by collecting `nvidia-smi` / NVML metrics and shipping them into the Elastic stack. Tech stack: Go, Elastic Beats, Elasticsearch, NVIDIA SMI/NVML, Python, HTML, and Makefile. The project has 56 stars and 18 forks. |
+| Project | Ecosystem | Role | Problem Solved | Tech Stack | Metrics |
+|---------|-----------|------|----------------|------------|---------|
+| <a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a>&nbsp;<a href="https://github.com/eBay/nvidiagpubeat">nvidiagpubeat</a> | <a href="https://www.elastic.co/docs/extend/beats/community-beats"><img src="https://avatars.githubusercontent.com/u/6764390?v=4" alt="Elastic logo" height="18"></a>&nbsp;<a href="https://www.elastic.co/docs/extend/beats/community-beats">Elastic Beats</a>; <a href="https://discuss.elastic.co/t/nvidiagpubeat-monitor-nvidia-gpus-using-this-beat/79644">announcement</a> | Creator, architect, maintainer | NVIDIA GPU observability through `nvidia-smi` / NVML metrics shipped into Elasticsearch. | Go, Elastic Beats, Elasticsearch, NVIDIA SMI/NVML, Python, HTML, Makefile | 56 stars, 18 forks |
