@@ -6,9 +6,8 @@ tracker-based contributions.
 Deepak Jain's GitHub handle:
 [deepujain](https://github.com/deepujain)
 
-I am grateful to keep contributing across open-source projects. Each PR is a
-chance to learn, collaborate, and leave the ecosystem a little better than
-before.
+Every PR is a chance to learn something new and collaborate with amazing
+communities.
 
 ## Contribution Matrix
 
