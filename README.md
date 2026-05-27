@@ -1,7 +1,7 @@
 # Open Source Contributions
 
 `deepujain`'s open-source contributions across GitHub pull requests and
-tracker-based patch submissions.
+tracker-based contributions.
 
 Deepak Jain's GitHub handle:
 [deepujain](https://github.com/deepujain)
@@ -15,8 +15,12 @@ before.
 | Project | PRs Created | Open PRs | Merged PRs |
 |--------------|-------------|----------|------------|
 | <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [17](https://github.com/apache/airflow/pulls/deepujain) | 0 | 3 |
+| <a href="https://github.com/apache/avro"><img src="https://apache.org/logos/res/avro/default.png" alt="Apache Avro logo" height="18"></a> <a href="https://github.com/apache/avro">Apache Avro</a> | [1](https://issues.apache.org/jira/browse/AVRO-1419) | 1 | 0 |
+| <a href="https://github.com/apache/druid"><img src="https://apache.org/logos/res/druid/default.png" alt="Apache Druid logo" height="18"></a> <a href="https://github.com/apache/druid">Apache Druid</a> | [1](https://github.com/apache/druid/pulls/deepujain) | 0 | 1 |
 | <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [13](https://github.com/apache/hadoop/pulls/deepujain) | 10 | 3 |
+| <a href="https://github.com/apache/pig"><img src="https://apache.org/logos/res/pig/default.png" alt="Apache Pig logo" height="18"></a> <a href="https://github.com/apache/pig">Apache Pig</a> | [2](https://issues.apache.org/jira/issues/?jql=key%20in%20(PIG-1885%2C%20PIG-671)) | 0 | 2 |
 | <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [3](https://github.com/apache/spark/pulls/deepujain) | 3 | 0 |
+| <a href="https://github.com/apache/zeppelin"><img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_logo.png" alt="Apache Zeppelin logo" height="18"></a> <a href="https://github.com/apache/zeppelin">Apache Zeppelin</a> | [6](https://github.com/apache/zeppelin/pulls/deepujain) | 0 | 0 |
 | <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [20](https://github.com/openclaw/clawhub/pulls/deepujain) | 0 | 8 |
 | <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [10](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 10 | 0 |
 | <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [18](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 10 | 6 |
@@ -24,16 +28,12 @@ before.
 | <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [50](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 9 | 23 |
 | <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [18](https://github.com/openclaw/openclaw/pulls/deepujain) | 4 | 2 |
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [10](https://github.com/pytorch/pytorch/pulls/deepujain) | 10 | 0 |
+| <a href="https://github.com/NICTA/scoobi"><img src="https://avatars.githubusercontent.com/u/1151968?v=4" alt="Scoobi logo" height="18"></a> <a href="https://github.com/NICTA/scoobi">Scoobi</a> | [2](https://github.com/NICTA/scoobi/pulls/deepujain) | 0 | 0 |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 |
-| **Total PRs** | **165** | **59** | **46** |
+| **Total PRs** | **177** | **60** | **49** |
 
 ## Additional Contributions
 
 | Project | Contributions |
 |---------|---------------|
 | nvidiagpubeat | Creator, architect, and maintainer of an NVIDIA GPU monitoring Beat for the Elastic stack, with 50+ stars and 20+ forks |
-| Apache Zeppelin | PR-192, PR-197, PR-225, PR-227, PR-335, PR-336 |
-| Apache Avro | AVRO-141 |
-| Apache Pig | PIG-1885, PIG-671 |
-| Apache Druid | Pull-561 |
-| Scoobi | Pull-355, Pull-356 |
