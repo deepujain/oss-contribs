@@ -1,15 +1,9 @@
 # Open Source Contributions
 
-`deepujain`'s open-source contributions across GitHub pull requests and
-tracker-based contributions.
+I have been contributing to open source for more than a decade. Every PR is a
+chance to learn something new and collaborate with amazing communities.
 
-Deepak Jain's GitHub handle:
-[deepujain](https://github.com/deepujain)
-
-I have been contributing to open source for more than a decade.
-
-Every PR is a chance to learn something new and collaborate with amazing
-communities.
+Deepak Jain's GitHub handle: [deepujain](https://github.com/deepujain)
 
 ## Contribution Matrix
 
