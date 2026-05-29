@@ -1,0 +1,4 @@
+interface:
+  display_name: "OSS Contribution README"
+  short_description: "Build verified OSS contribution READMEs"
+  default_prompt: "Use $oss-contribution-readme to create a polished README with verified OSS contribution counts, logos, links, and a featured-project table."

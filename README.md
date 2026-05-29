@@ -51,3 +51,10 @@ Deepak Jain's GitHub handle: [deepujain](https://github.com/deepujain)
     </tr>
   </tbody>
 </table>
+
+## Reusable Skill
+
+This repo includes an
+[OSS Contribution README skill](skills/oss-contribution-readme/SKILL.md) for
+creating README files like this one with verified contribution counts, project
+logos, links, totals, and featured contribution tables.
