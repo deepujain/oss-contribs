@@ -13,8 +13,7 @@ Scoobi, and nvidiagpubeat.
 **GitHub:** [deepujain/oss-contribs](https://github.com/deepujain/oss-contribs)
 for details
 
-<details>
-<summary>Detailed contribution matrix</summary>
+## Detailed Contribution Matrix
 
 GitHub pull requests and tracker-based patch submissions across Apache, AI,
 infrastructure, and observability projects.
@@ -38,8 +37,6 @@ infrastructure, and observability projects.
 | <a href="https://github.com/NICTA/scoobi"><img src="https://avatars.githubusercontent.com/u/1151968?v=4" alt="Scoobi logo" height="18"></a> <a href="https://github.com/NICTA/scoobi">Scoobi</a> | [2](https://github.com/NICTA/scoobi/pulls/deepujain) | 0 | 0 |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 |
 | **Total PRs** | **195** | **58** | **54** |
-
-</details>
 
 <details>
 <summary>Featured contribution</summary>
