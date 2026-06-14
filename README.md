@@ -35,8 +35,7 @@ infrastructure, and observability projects.
 
 **Success Rate:** 27.7% merged (54 of 195)
 
-<details>
-<summary>Featured contribution</summary>
+## Featured Open Source Project: nvidiagpubeat
 
 <table>
   <thead>
@@ -60,8 +59,6 @@ infrastructure, and observability projects.
     </tr>
   </tbody>
 </table>
-
-</details>
 
 ## Reusable Skill
 
