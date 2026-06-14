@@ -35,7 +35,7 @@ infrastructure, and observability projects.
 
 **Success Rate:** 28.7% merged (56 of 195)
 
-## Featured Open Source Project - Owner
+## Open Source Projects - Creator
 
 <table>
   <thead>
