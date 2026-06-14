@@ -4,9 +4,18 @@ I have been contributing to open source for more than a decade. Every
 contribution is a chance to learn something new and collaborate with amazing
 communities.
 
-Deepak Jain's GitHub handle: [deepujain](https://github.com/deepujain)
+**OSS Projects:** Apache Hadoop, Apache HDFS, Apache YARN, Apache MapReduce,
+Apache Airflow, Apache Zeppelin, Apache Avro, Apache Spark, Apache Pig, Apache
+Druid, OpenClaw, ClawHub, NemoClaw, Inspect AI, Inspect Petri, PyTorch, Slurm,
+Scoobi, and nvidiagpubeat.
 
-## Contribution Matrix
+**Total Contributions:** 195
+
+**GitHub:** [deepujain/oss-contribs](https://github.com/deepujain/oss-contribs)
+for details
+
+<details>
+<summary>Detailed contribution matrix</summary>
 
 GitHub pull requests and tracker-based patch submissions across Apache, AI,
 infrastructure, and observability projects.
@@ -24,14 +33,17 @@ infrastructure, and observability projects.
 | <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [10](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 10 | 0 |
 | <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [18](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 10 | 6 |
 | <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [3](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 0 | 1 |
-| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [50](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 6 | 23 |
-| <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [20](https://github.com/openclaw/openclaw/pulls/deepujain) | 4 | 2 |
+| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [50](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 1 | 28 |
+| <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [30](https://github.com/openclaw/openclaw/pulls/deepujain) | 10 | 2 |
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [16](https://github.com/pytorch/pytorch/pulls/deepujain) | 10 | 0 |
 | <a href="https://github.com/NICTA/scoobi"><img src="https://avatars.githubusercontent.com/u/1151968?v=4" alt="Scoobi logo" height="18"></a> <a href="https://github.com/NICTA/scoobi">Scoobi</a> | [2](https://github.com/NICTA/scoobi/pulls/deepujain) | 0 | 0 |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 |
-| **Total PRs** | **185** | **57** | **49** |
+| **Total PRs** | **195** | **58** | **54** |
 
-## Additional Contributions
+</details>
+
+<details>
+<summary>Featured contribution</summary>
 
 <table>
   <thead>
@@ -55,6 +67,8 @@ infrastructure, and observability projects.
     </tr>
   </tbody>
 </table>
+
+</details>
 
 ## Reusable Skill
 
