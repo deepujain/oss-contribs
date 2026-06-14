@@ -1,8 +1,7 @@
 # Open Source Contributions
 
-I have been contributing to open source for more than a decade. Every
-contribution is a chance to learn something new and collaborate with amazing
-communities.
+Every contribution is a chance to learn something new and collaborate with
+amazing communities.
 
 **OSS Projects:** Apache Hadoop, Apache HDFS, Apache YARN, Apache MapReduce,
 Apache Airflow, Apache Zeppelin, Apache Avro, Apache Spark, Apache Pig, Apache
