@@ -6,7 +6,7 @@ amazing communities.
 **GitHub:** [deepujain/oss-contribs](https://github.com/deepujain/oss-contribs)
 for details
 
-## Detailed Contribution Matrix
+## Contribution Matrix
 
 GitHub pull requests and tracker-based patch submissions across Apache, AI,
 infrastructure, and observability projects.
@@ -35,7 +35,7 @@ infrastructure, and observability projects.
 
 **Success Rate:** 28.7% merged (56 of 195)
 
-## Featured Open Source Project: nvidiagpubeat
+## Featured Open Source Project - Owner
 
 <table>
   <thead>
