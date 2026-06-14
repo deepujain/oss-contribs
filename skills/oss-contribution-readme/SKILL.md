@@ -91,6 +91,11 @@ Count:
 - `Open PRs`: PRs with `state == "OPEN"`.
 - `Merged PRs`: PRs with non-null `mergedAt`.
 
+Repo-specific merge indicators override `mergedAt` when the project uses a
+different workflow. For `pytorch/pytorch`, count closed PRs with the `Merged`
+label as merged, because PyTorch may close the original PR and use that label
+as the public merge indicator.
+
 For a contributor-wide earliest public PR:
 
 ```bash
