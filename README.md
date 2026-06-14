@@ -3,13 +3,6 @@
 Every contribution is a chance to learn something new and collaborate with
 amazing communities.
 
-**OSS Projects:** Apache Hadoop, Apache HDFS, Apache YARN, Apache MapReduce,
-Apache Airflow, Apache Zeppelin, Apache Avro, Apache Spark, Apache Pig, Apache
-Druid, OpenClaw, ClawHub, NemoClaw, Inspect AI, Inspect Petri, PyTorch, Slurm,
-Scoobi, and nvidiagpubeat.
-
-**Total Contributions:** 195
-
 **GitHub:** [deepujain/oss-contribs](https://github.com/deepujain/oss-contribs)
 for details
 
@@ -37,6 +30,10 @@ infrastructure, and observability projects.
 | <a href="https://github.com/NICTA/scoobi"><img src="https://avatars.githubusercontent.com/u/1151968?v=4" alt="Scoobi logo" height="18"></a> <a href="https://github.com/NICTA/scoobi">Scoobi</a> | [2](https://github.com/NICTA/scoobi/pulls/deepujain) | 0 | 0 |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 |
 | **Total PRs** | **195** | **58** | **54** |
+
+**Total Contributions:** 195
+
+**Success Rate:** 27.7% merged (54 of 195)
 
 <details>
 <summary>Featured contribution</summary>
