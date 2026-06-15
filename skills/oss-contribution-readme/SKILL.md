@@ -82,7 +82,7 @@ For a GitHub repo:
 
 ```bash
 gh pr list --repo OWNER/REPO --author USERNAME --state all --limit 1000 \
-  --json number,state,mergedAt,url,title,createdAt
+  --json number,state,mergedAt,labels,url,title,createdAt
 ```
 
 Count:
@@ -276,7 +276,7 @@ files untouched.
 
 | Task | Command or Rule |
 | --- | --- |
-| List author PRs in one repo | `gh pr list --repo OWNER/REPO --author USER --state all --limit 1000 --json number,state,mergedAt,url` |
+| List author PRs in one repo | `gh pr list --repo OWNER/REPO --author USER --state all --limit 1000 --json number,state,mergedAt,labels,url` |
 | Find earliest public PR | `gh search prs --author USER --sort created --order asc --limit 20 --json repository,number,title,createdAt,state,url` |
 | GitHub contributor link | `https://github.com/OWNER/REPO/pulls/USER` |
 | Logo size | `height="18"` |
