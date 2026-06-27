@@ -1,6 +1,6 @@
 # Open Source Contributions
 
-Every contribution is a chance to collaborate with amazing communities.
+Every contribution is an opportunity to collaborate with amazing communities.
 
 **GitHub:** [deepujain/oss-contribs](https://github.com/deepujain/oss-contribs)
 for details
