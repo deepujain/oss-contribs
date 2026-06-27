@@ -2,9 +2,6 @@
 
 Every contribution is an opportunity to collaborate with amazing communities.
 
-**GitHub:** [deepujain/oss-contribs](https://github.com/deepujain/oss-contribs)
-for details
-
 ## Contribution Matrix
 
 GitHub pull requests and tracker-based patch submissions across Apache, AI,
