@@ -4,8 +4,8 @@ Every contribution is an opportunity to collaborate with amazing communities.
 
 ## Contribution Matrix
 
-GitHub pull requests and tracker-based patch submissions across Apache, AI,
-infrastructure, and observability projects.
+GitHub pull requests and tracker-based patch submissions across all contributed
+projects.
 
 | Project | PRs Created | Open PRs | Merged PRs |
 |--------------|-------------|----------|------------|
