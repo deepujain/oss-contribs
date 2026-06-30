@@ -1,6 +1,7 @@
 # Open Source Contributions
 
-Every contribution is an opportunity to collaborate with amazing communities.
+I contribute to open source to collaborate with communities and help useful
+projects move forward.
 
 ## Contribution Matrix
 

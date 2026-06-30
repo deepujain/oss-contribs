@@ -1,6 +1,6 @@
 ---
 name: oss-contribution-readme
-description: Create or update a polished README that showcases a contributor's open-source work with an OSS contribution matrix, linked project names, official logos, verified PR or patch counts, open and merged status, optional featured-project details, and LinkedIn-ready intro copy. Use when the user wants a GitHub profile README, standalone OSS portfolio repo, contribution table with logos, public PR counts, tracker patch submissions, featured project table, or reusable open-source contribution showcase.
+description: Create or update a polished README that showcases a contributor's open-source work with an OSS contribution matrix, linked project names, official logos, verified PR or patch counts, open and merged status, concise intro copy, and optional featured-project details. Use when the user wants a GitHub profile README, standalone OSS portfolio repo, contribution table with logos, public PR counts, tracker patch submissions, featured project table, or reusable open-source contribution showcase.
 ---
 
 # OSS Contribution README Skill
@@ -9,8 +9,7 @@ description: Create or update a polished README that showcases a contributor's o
 
 Create a public-facing README that accurately presents a contributor's
 open-source history. Optimize for correctness, clean rendering on GitHub,
-durable links, visible logos, and text that can be reused in LinkedIn or a
-personal portfolio.
+durable links, visible logos, and concise public-profile prose.
 
 ## Execution Guardrails
 
@@ -103,9 +102,9 @@ gh search prs --author USERNAME --sort created --order asc --limit 20 \
   --json repository,number,title,createdAt,state,url
 ```
 
-Use this to verify claims such as "more than a decade." As of the current date,
-the earliest verified public contribution must be at least 10 years old. If the
-evidence is exactly near the boundary, state the exact date instead of rounding.
+Use this to verify timeline claims. Prefer exact earliest contribution dates
+over age-forward phrases that make a profile sound dated. If the evidence is
+near a claim boundary, state the exact date instead of rounding.
 
 For non-GitHub trackers:
 
@@ -156,12 +155,13 @@ Recommended intro:
 ```markdown
 # Open Source Contributions
 
-I have been contributing to open source for more than a decade. Every
-contribution is a chance to learn something new and collaborate with amazing
-communities.
-
-Name's GitHub handle: [username](https://github.com/username)
+I contribute to open source to collaborate with communities and help useful
+projects move forward.
 ```
+
+Only include tenure, age, or career-length claims when the user explicitly asks
+and the evidence supports them. Prefer present-tense, active wording for public
+profiles.
 
 Main matrix:
 
@@ -230,26 +230,7 @@ Keep featured rows factual. If a role ended at a previous employer, use wording
 like "creator, architect, and maintainer while at Company" only when the user
 wants the employment context included.
 
-## Step 6: LinkedIn Copy
-
-When the user asks for a LinkedIn caption, write short, warm prose. Mention
-current focus areas only when relevant:
-
-```text
-I have been contributing to open source for more than a decade. Every
-contribution is a chance to learn something new and collaborate with amazing
-communities.
-
-Lately, my focus has been around the AI ecosystem, including OpenClaw, NemoClaw,
-Inspect AI, Inspect Petri, Hermes Agent, and PyTorch.
-
-#OpenSource #AI #MachineLearning #PyTorch #InspectAI #OpenClaw
-```
-
-Do not add inflated claims, unverifiable impact, or a long project dump unless
-the user asks.
-
-## Step 7: Validate and Finish
+## Step 6: Validate and Finish
 
 Before finalizing:
 
