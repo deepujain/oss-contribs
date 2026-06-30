@@ -1,6 +1,6 @@
 ---
 name: oss-contribution-readme
-description: Create or update a polished README that showcases a contributor's open-source work with an OSS contribution matrix, linked project names, official logos, verified PR or patch counts, open and merged status, concise intro copy, and optional featured-project details. Use when the user wants a GitHub profile README, standalone OSS portfolio repo, contribution table with logos, public PR counts, tracker patch submissions, featured project table, or reusable open-source contribution showcase.
+description: Create or update a polished README that showcases a contributor's open-source work with an OSS contribution matrix, linked project names, official logos, verified PR or patch counts, open and merged status, concise intro copy, and optional featured-project details. Trigger on phrases such as "update oss-contribs", "refresh contribution counters", "create OSS contribution README", or "build an OSS contribution table with logos". Use when the user wants a GitHub profile README, standalone OSS portfolio repo, contribution table with logos, public PR counts, tracker patch submissions, featured project table, or reusable open-source contribution showcase.
 ---
 
 # OSS Contribution README Skill
