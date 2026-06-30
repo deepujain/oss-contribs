@@ -1,6 +1,6 @@
 ---
 name: oss-contribution-readme
-description: Create or update a polished README that showcases a contributor's open-source work with an OSS contribution matrix, linked project names, official logos, verified PR or patch counts, open and merged status, concise intro copy, and optional featured-project details. Trigger on phrases such as "update oss-contribs", "refresh contribution counters", "create OSS contribution README", or "build an OSS contribution table with logos". Use when the user wants a GitHub profile README, standalone OSS portfolio repo, contribution table with logos, public PR counts, tracker patch submissions, featured project table, or reusable open-source contribution showcase.
+description: Create, update, publish, commit, or push a polished README that showcases a contributor's open-source work with an OSS contribution matrix, linked project names, official logos, verified PR or patch counts, open and merged status, concise intro copy, and optional featured-project details. Trigger on phrases such as "update oss-contribs", "update the contribution matrix", "refresh the OSS matrix", "refresh contribution counters", "publish the contribution matrix", "commit and push oss-contribs", "create OSS contribution README", or "build an OSS contribution table with logos". Use when the user wants a GitHub profile README, standalone OSS portfolio repo, contribution table with logos, public PR counts, tracker patch submissions, featured project table, or reusable open-source contribution showcase.
 ---
 
 # OSS Contribution README Skill
@@ -54,7 +54,8 @@ Use this ordered workflow unless the user asks for a narrow edit:
 4. Select project links and logos.
 5. Build or update the README tables.
 6. Check rendering risks, totals, and link targets.
-7. Validate, commit, and push when requested.
+7. Validate, then commit and push `oss-contribs` updates unless the user asks
+   for a local-only edit. For other repos, commit and push when requested.
 
 ## Step 1: Gather Scope
 
@@ -249,9 +250,15 @@ Also check:
 - Featured project cells are split into columns instead of one crowded sentence.
 - Public text contains no private tool attribution or generated-by language.
 
-If working in a git repo and the user wants the update published, commit only
-the README and directly related skill/template files. Leave unrelated dirty
-files untouched.
+Publishing rule:
+
+- For the `oss-contribs` repo, treat requests such as "update oss-contribs",
+  "update the contribution matrix", and "refresh contribution counters" as a
+  request to publish. After validation, commit only `README.md` and directly
+  related skill/template files, then push the current branch.
+- For other target repos or profile READMEs, commit and push only when the user
+  asks or the local context clearly says the repo is meant to be updated.
+- Leave unrelated dirty files untouched.
 
 ## Quick Reference
 
@@ -263,3 +270,4 @@ files untouched.
 | Logo size | `height="18"` |
 | Default sort | Project name ascending |
 | Validation | `git diff --check -- README.md` plus visual/render inspection |
+| Publish `oss-contribs` update | Commit `README.md` and directly related skill/template files, then push the current branch |
