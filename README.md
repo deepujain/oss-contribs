@@ -8,9 +8,9 @@ projects move forward.
 GitHub pull requests and tracker-based patch submissions across all contributed
 projects.
 
-| Project | PRs Created | Open PRs | Merged PRs |
-|--------------|-------------|----------|------------|
-| <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [17](https://github.com/apache/airflow/pulls/deepujain) | 0 | 3 |
+| Project | Contributions | Open | Merged / Accepted |
+|--------------|---------------|------|-------------------|
+| <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [27](https://github.com/apache/airflow/pulls/deepujain) | 10 | 3 |
 | <a href="https://github.com/apache/avro"><img src="https://apache.org/logos/res/avro/default.png" alt="Apache Avro logo" height="18"></a> <a href="https://github.com/apache/avro">Apache Avro</a> | [1](https://issues.apache.org/jira/browse/AVRO-1419) | 1 | 0 |
 | <a href="https://github.com/apache/druid"><img src="https://apache.org/logos/res/druid/default.png" alt="Apache Druid logo" height="18"></a> <a href="https://github.com/apache/druid">Apache Druid</a> | [1](https://github.com/apache/druid/pulls/deepujain) | 0 | 1 |
 | <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [13](https://github.com/apache/hadoop/pulls/deepujain) | 9 | 3 |
@@ -23,14 +23,14 @@ projects.
 | <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [3](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 0 | 1 |
 | <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [61](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 5 | 30 |
 | <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [30](https://github.com/openclaw/openclaw/pulls/deepujain) | 7 | 2 |
-| <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [16](https://github.com/pytorch/pytorch/pulls/deepujain) | 8 | 4 |
+| <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 15 | 4 |
 | <a href="https://github.com/NICTA/scoobi"><img src="https://avatars.githubusercontent.com/u/1151968?v=4" alt="Scoobi logo" height="18"></a> <a href="https://github.com/NICTA/scoobi">Scoobi</a> | [2](https://github.com/NICTA/scoobi/pulls/deepujain) | 0 | 0 |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 |
-| **Total PRs** | **206** | **56** | **60** |
+| **Total Contributions** | **223** | **73** | **60** |
 
-**Total Contributions:** 206
+**Total Contributions:** 223
 
-**Success Rate:** 29.1% merged (60 of 206)
+**Success Rate:** 26.9% merged / accepted (60 of 223)
 
 ## Open Source Projects - Creator
 
