@@ -92,9 +92,19 @@ Count:
 - `Merged PRs`: PRs with non-null `mergedAt`.
 
 Repo-specific merge indicators override `mergedAt` when the project uses a
-different workflow. For `pytorch/pytorch`, count closed PRs with the `Merged`
-label as merged, because PyTorch may close the original PR and use that label
-as the public merge indicator.
+different workflow:
+
+- For `pytorch/pytorch`, count closed PRs with the `Merged` label as merged,
+  because PyTorch may close the original PR and use that label as the public
+  merge indicator.
+- For `apache/spark`, count closed PRs as accepted when an Apache Spark member,
+  owner, or collaborator comment shows an actual merge event even though
+  `mergedAt` is null. High-confidence signals include `merge_spark_pr.py`
+  merge summaries with `merged into ...` Apache Spark commit links, or member
+  comments such as `Merging to master/4.x` on a closed PR. A first-contribution
+  congratulations comment from a Spark member is supporting evidence, but do
+  not count a closed PR from approval/LGTM alone without a merge event or merge
+  intent signal.
 
 For a contributor-wide earliest public PR:
 
