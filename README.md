@@ -1,10 +1,5 @@
 # Open Source Contributions
 
-I contribute to open source to collaborate with communities and help useful
-projects move forward.
-
-## Contribution Matrix
-
 GitHub pull requests and tracker-based patch submissions across all contributed
 projects.
 
