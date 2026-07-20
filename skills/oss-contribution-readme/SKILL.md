@@ -105,6 +105,14 @@ different workflow:
   congratulations comment from a Spark member is supporting evidence, but do
   not count a closed PR from approval/LGTM alone without a merge event or merge
   intent signal.
+- For `NousResearch/hermes-agent`, count a closed PR as accepted when a merged
+  upstream PR explicitly salvages or references the original PR and includes a
+  cherry-picked commit authored by the contributor. High-confidence evidence is
+  a merged PR title/body such as `salvages #ORIGINAL_PR` plus a commit in that
+  merged PR whose author email, author name, and subject match the contributor's
+  original work. Example: `#30692` is accepted via merged PR `#67971`, which
+  includes commit `da2779d9f225344913b27b8a0c9e7a5107a40159` authored by
+  `Deepak Jain <deepujain@gmail.com>`.
 
 For a contributor-wide earliest public PR:
 
