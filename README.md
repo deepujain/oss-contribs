@@ -2,12 +2,12 @@
 
 GitHub pull requests and tracker-based patch submissions across all contributed
 projects. This is the live public portfolio tracker; the reusable contribution
-workflow lives in [OSS Claw](https://github.com/deepujain/oss-claw).
+workflow lives in [Skippy](https://github.com/deepujain/skippy).
 
 Counts are refreshed from their upstream tracker before publication. For active
 work, treat an open PR as a queue slot only after it has independent validation;
 record the decision, evidence, known limits, and next action in the
-[OSS Claw verification-receipt guide](https://github.com/deepujain/oss-claw/blob/main/oss/references/verification-receipts.md).
+[Skippy verification-receipt guide](https://github.com/deepujain/skippy/blob/main/oss/references/verification-receipts.md).
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
