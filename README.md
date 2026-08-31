@@ -1,7 +1,13 @@
 # Open Source Contributions
 
 GitHub pull requests and tracker-based patch submissions across all contributed
-projects.
+projects. This is the live public portfolio tracker; the reusable contribution
+workflow lives in [OSS Claw](https://github.com/deepujain/oss-claw).
+
+Counts are refreshed from their upstream tracker before publication. For active
+work, treat an open PR as a queue slot only after it has independent validation;
+record the decision, evidence, known limits, and next action in the
+[OSS Claw verification-receipt guide](https://github.com/deepujain/oss-claw/blob/main/oss/references/verification-receipts.md).
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
@@ -17,7 +23,7 @@ projects.
 | <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [29](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 3 | 13 | 44.8% |
 | <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [3](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 0 | 1 | 33.3% |
 | <a href="https://github.com/NVIDIA/Megatron-LM"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/Megatron-LM">Megatron-LM</a> | [5](https://github.com/NVIDIA/Megatron-LM/pulls/deepujain) | 5 | 0 | 0.0% |
-| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [97](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 0 | 62 | 63.9% |
+| <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [102](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 4 | 62 | 60.8% |
 | <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [30](https://github.com/openclaw/openclaw/pulls/deepujain) | 1 | 4 | 13.3% |
 | <a href="https://github.com/NVIDIA/OpenShell"><img src="https://raw.githubusercontent.com/NVIDIA/OpenShell/main/docs/brand/assets/favicon.svg" alt="OpenShell logo" height="18"></a> <a href="https://github.com/NVIDIA/OpenShell">OpenShell</a> | [1](https://github.com/NVIDIA/OpenShell/pulls/deepujain) | 0 | 0 | 0.0% |
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 12 | 6 | 26.1% |
@@ -25,11 +31,11 @@ projects.
 | <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [7](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 5 | 2 | 28.6% |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 | 0.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [8](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 4 | 4 | 50.0% |
-| **Total Contributions** | **298** | **57** | **119** | **39.9%** |
+| **Total Contributions** | **303** | **61** | **119** | **39.3%** |
 
-**Total Contributions:** 298
+**Total Contributions:** 303
 
-**Success Rate:** 39.9% merged (119 of 298)
+**Success Rate:** 39.3% merged (119 of 303)
 
 ## Open Source Projects - Creator
 
