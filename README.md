@@ -35,30 +35,16 @@ the decision, evidence, known limits, and next action are recorded in the
 
 **Success Rate:** 41.3% merged (124 of 300)
 
-## Open Source Projects - Creator
+## Non-Skippy Contributions
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Ecosystem</th>
-      <th>Role</th>
-      <th>Problem Solved</th>
-      <th>Tech Stack</th>
-      <th>Metrics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td nowrap="nowrap" width="180"><a href="https://github.com/eBay/nvidiagpubeat"><img src="https://avatars.githubusercontent.com/u/3639281?v=4" alt="eBay Open Source logo" height="18"></a>&nbsp;<a href="https://github.com/eBay/nvidiagpubeat">nvidiagpubeat</a></td>
-      <td><a href="https://www.elastic.co/docs/extend/beats/community-beats"><img src="https://avatars.githubusercontent.com/u/6764390?v=4" alt="Elastic logo" height="18"></a>&nbsp;<a href="https://www.elastic.co/docs/extend/beats/community-beats">Elastic Beats</a>; <a href="https://discuss.elastic.co/t/nvidiagpubeat-monitor-nvidia-gpus-using-this-beat/79644">announcement</a></td>
-      <td>Creator, architect, maintainer</td>
-      <td>NVIDIA GPU observability through <code>nvidia-smi</code> / NVML metrics shipped into Elasticsearch.</td>
-      <td>Go, Elastic Beats, Elasticsearch, NVIDIA SMI/NVML, Python</td>
-      <td>55 stars, 18 forks</td>
-    </tr>
-  </tbody>
-</table>
+These contributions predate the Skippy-assisted workflow.
+
+| Project | Contributions | Open | Merged | Merged % |
+|--------------|---------------|------|--------|----------|
+| <a href="https://github.com/apache/avro"><img src="https://apache.org/logos/res/avro/default.png" alt="Apache Avro logo" height="18"></a> <a href="https://github.com/apache/avro">Apache Avro</a> | [1](https://issues.apache.org/jira/browse/AVRO-1419) | 1 | 0 | 0.0% |
+| <a href="https://github.com/apache/pig"><img src="https://apache.org/logos/res/pig/default.png" alt="Apache Pig logo" height="18"></a> <a href="https://github.com/apache/pig">Apache Pig</a> | [2](https://issues.apache.org/jira/issues/?jql=key%20in%20(PIG-1885%2C%20PIG-671)) | 0 | 2 | 100.0% |
+| <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 | 0.0% |
+| **Total Contributions** | **6** | **4** | **2** | **33.3%** |
 
 ## Reusable Skill
 
