@@ -13,6 +13,8 @@ of what was tested, what remains, and the next action.
 
 ## Skippy-Assisted Contributions
 
+These contributions were assisted by Skippy.
+
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
 | <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [29](https://github.com/apache/airflow/pulls/deepujain) | 3 | 9 | 31.0% |
