@@ -3,12 +3,13 @@
 [Skippy](https://github.com/deepujain/skippy) is a reusable open-source
 engineering system for AI coding agents. It combines engineering principles,
 decision rules, task-specific playbooks, project skills, durable task plans,
-continuous learning from outcomes, and evidence-driven verification.
+continuous learning from outcomes, concurrent specialist-agent coordination,
+and evidence-driven verification.
 
 Rather than only generating a patch, Skippy helps an agent understand project
 constraints, choose and execute the right work, learn from review outcomes,
-and deliver a clear receipt of what was tested, what remains, and the next
-action.
+launch and manage concurrent agents where useful, and deliver a clear receipt
+of what was tested, what remains, and the next action.
 
 This matrix tracks contributions created in 2026 and later using Skippy.
 
