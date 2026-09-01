@@ -1,21 +1,20 @@
-# Open Source Contributions
+# Skippy-Assisted Open Source Contributions
 
-GitHub pull requests and tracker-based patch submissions across all contributed
-projects. This is the live public portfolio tracker; the reusable contribution
-workflow lives in [Skippy](https://github.com/deepujain/skippy).
+This matrix tracks contributions created from 2025 onward using
+[Skippy](https://github.com/deepujain/skippy), a reusable workflow for moving
+open-source work from implementation through independent validation and a
+clear verification receipt.
 
 Counts are refreshed from their upstream tracker before publication. For active
-work, treat an open PR as a queue slot only after it has independent validation;
-record the decision, evidence, known limits, and next action in the
+work, an open PR is treated as a queue slot only after independent validation;
+the decision, evidence, known limits, and next action are recorded in the
 [Skippy verification-receipt guide](https://github.com/deepujain/skippy/blob/main/oss/references/verification-receipts.md).
 
 | Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
 | <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [29](https://github.com/apache/airflow/pulls/deepujain) | 3 | 9 | 31.0% |
-| <a href="https://github.com/apache/avro"><img src="https://apache.org/logos/res/avro/default.png" alt="Apache Avro logo" height="18"></a> <a href="https://github.com/apache/avro">Apache Avro</a> | [1](https://issues.apache.org/jira/browse/AVRO-1419) | 1 | 0 | 0.0% |
 | <a href="https://github.com/apache/druid"><img src="https://apache.org/logos/res/druid/default.png" alt="Apache Druid logo" height="18"></a> <a href="https://github.com/apache/druid">Apache Druid</a> | [1](https://github.com/apache/druid/pulls/deepujain) | 0 | 1 | 100.0% |
 | <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [15](https://github.com/apache/hadoop/pulls/deepujain) | 8 | 4 | 26.7% |
-| <a href="https://github.com/apache/pig"><img src="https://apache.org/logos/res/pig/default.png" alt="Apache Pig logo" height="18"></a> <a href="https://github.com/apache/pig">Apache Pig</a> | [2](https://issues.apache.org/jira/issues/?jql=key%20in%20(PIG-1885%2C%20PIG-671)) | 0 | 2 | 100.0% |
 | <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [4](https://github.com/apache/spark/pulls/deepujain) | 2 | 2 | 50.0% |
 | <a href="https://github.com/apache/zeppelin"><img src="https://zeppelin.apache.org/assets/themes/zeppelin/img/zepLogo.png" alt="Apache Zeppelin logo" height="18"></a> <a href="https://github.com/apache/zeppelin">Apache Zeppelin</a> | [6](https://github.com/apache/zeppelin/pulls/deepujain) | 0 | 0 | 0.0% |
 | <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [21](https://github.com/openclaw/clawhub/pulls/deepujain) | 0 | 9 | 42.9% |
@@ -29,13 +28,12 @@ record the decision, evidence, known limits, and next action in the
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 12 | 6 | 26.1% |
 | <a href="https://github.com/NICTA/scoobi"><img src="https://avatars.githubusercontent.com/u/1151968?v=4" alt="Scoobi logo" height="18"></a> <a href="https://github.com/NICTA/scoobi">Scoobi</a> | [2](https://github.com/NICTA/scoobi/pulls/deepujain) | 0 | 0 | 0.0% |
 | <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [9](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 5 | 4 | 44.4% |
-| <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 | 0.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [8](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 2 | 6 | 75.0% |
-| **Total Contributions** | **306** | **57** | **126** | **41.2%** |
+| **Total Contributions** | **300** | **53** | **124** | **41.3%** |
 
-**Total Contributions:** 306
+**Total Contributions:** 300
 
-**Success Rate:** 41.2% merged (126 of 306)
+**Success Rate:** 41.3% merged (124 of 300)
 
 ## Open Source Projects - Creator
 
