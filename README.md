@@ -6,7 +6,7 @@ issue selection and implementation through independent validation, evidence
 capture, and review follow-up, so each active contribution has a clear
 verification receipt of what was tested, what remains, and the next action.
 
-This matrix tracks contributions created from 2025 onward using Skippy.
+This matrix tracks contributions created in 2026 and later using Skippy.
 
 Counts are refreshed from their upstream tracker before publication. For active
 work, an open PR is treated as a queue slot only after independent validation;
