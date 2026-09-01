@@ -13,7 +13,7 @@ work, an open PR is treated as a queue slot only after independent validation;
 the decision, evidence, known limits, and next action are recorded in the
 [Skippy verification-receipt guide](https://github.com/deepujain/skippy/blob/main/oss/references/verification-receipts.md).
 
-| Project | Contributions / role | Open | Merged | Merged % |
+| Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
 | <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [29](https://github.com/apache/airflow/pulls/deepujain) | 3 | 9 | 31.0% |
 | <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [15](https://github.com/apache/hadoop/pulls/deepujain) | 8 | 4 | 26.7% |
@@ -40,7 +40,7 @@ the decision, evidence, known limits, and next action are recorded in the
 
 These contributions were not assisted by Skippy.
 
-| Project | Contributions / role | Open | Merged | Merged % |
+| Project | Contributions | Open | Merged | Merged % |
 |--------------|---------------|------|--------|----------|
 | <a href="https://github.com/apache/avro"><img src="https://apache.org/logos/res/avro/default.png" alt="Apache Avro logo" height="18"></a> <a href="https://github.com/apache/avro">Apache Avro</a> | [1](https://issues.apache.org/jira/browse/AVRO-1419) | 1 | 0 | 0.0% |
 | <a href="https://github.com/apache/druid"><img src="https://apache.org/logos/res/druid/default.png" alt="Apache Druid logo" height="18"></a> <a href="https://github.com/apache/druid">Apache Druid</a> | [1](https://github.com/apache/druid/pulls/deepujain) | 0 | 1 | 100.0% |
