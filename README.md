@@ -1,10 +1,14 @@
 # Skippy-Assisted Open Source Contributions
 
 [Skippy](https://github.com/deepujain/skippy) is a reusable open-source
-contribution workflow for AI coding agents. It takes agent-assisted work from
-issue selection and implementation through independent validation, evidence
-capture, and review follow-up, so each active contribution has a clear
-verification receipt of what was tested, what remains, and the next action.
+engineering system for AI coding agents. It combines engineering principles,
+decision rules, task-specific playbooks, project skills, durable task plans,
+continuous learning from outcomes, and evidence-driven verification.
+
+Rather than only generating a patch, Skippy helps an agent understand project
+constraints, choose and execute the right work, learn from review outcomes,
+and deliver a clear receipt of what was tested, what remains, and the next
+action.
 
 This matrix tracks contributions created in 2026 and later using Skippy.
 
