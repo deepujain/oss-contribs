@@ -11,11 +11,6 @@ constraints, choose and execute the right work, learn from review outcomes,
 launch and manage concurrent agents where useful, and deliver a clear receipt
 of what was tested, what remains, and the next action.
 
-Counts are refreshed from their upstream tracker before publication. For active
-work, an open PR is treated as a queue slot only after independent validation;
-the decision, evidence, known limits, and next action are recorded in the
-[Skippy verification-receipt guide](https://github.com/deepujain/skippy/blob/main/oss/references/verification-receipts.md).
-
 ## Skippy-Assisted Contributions
 
 | Project | Contributions | Open | Merged | Merged % |
