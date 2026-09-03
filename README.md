@@ -20,9 +20,10 @@ These contributions were assisted by Skippy.
 | <a href="https://github.com/apache/airflow"><img src="https://apache.org/logos/res/airflow/default.png" alt="Apache Airflow logo" height="18"></a> <a href="https://github.com/apache/airflow">Apache Airflow</a> | [31](https://github.com/apache/airflow/pulls/deepujain) | 5 | 9 | 29.0% |
 | <a href="https://github.com/apache/hadoop"><img src="https://apache.org/logos/res/hadoop/hadoop.png" alt="Apache Hadoop logo" height="18"></a> <a href="https://github.com/apache/hadoop">Apache Hadoop</a> | [15](https://github.com/apache/hadoop/pulls/deepujain) | 8 | 4 | 26.7% |
 | <a href="https://github.com/apache/spark"><img src="https://apache.org/logos/res/spark/spark.png" alt="Apache Spark logo" height="18"></a> <a href="https://github.com/apache/spark">Apache Spark</a> | [4](https://github.com/apache/spark/pulls/deepujain) | 2 | 0 | 0.0% |
+| <a href="https://github.com/apache/superset"><img src="https://apache.org/logos/res/superset/default.png" alt="Apache Superset logo" height="18"></a> <a href="https://github.com/apache/superset">Apache Superset</a> | [2](https://github.com/apache/superset/pulls/deepujain) | 2 | 0 | 0.0% |
 | <a href="https://github.com/openclaw/clawhub"><img src="https://raw.githubusercontent.com/openclaw/clawhub/main/public/og-logo.png" alt="ClawHub logo" height="18"></a> <a href="https://github.com/openclaw/clawhub">ClawHub</a> | [21](https://github.com/openclaw/clawhub/pulls/deepujain) | 0 | 9 | 42.9% |
 | <a href="https://github.com/NousResearch/hermes-agent"><img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" alt="Hermes Agent logo" height="18"></a> <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> | [11](https://github.com/NousResearch/hermes-agent/pulls/deepujain) | 9 | 0 | 0.0% |
-| <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [31](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 3 | 14 | 45.2% |
+| <a href="https://github.com/UKGovernmentBEIS/inspect_ai"><img src="https://raw.githubusercontent.com/UKGovernmentBEIS/inspect_ai/main/docs/images/aisi-logo.svg" alt="AISI logo" height="18"></a> <a href="https://github.com/UKGovernmentBEIS/inspect_ai">Inspect AI</a> | [32](https://github.com/UKGovernmentBEIS/inspect_ai/pulls/deepujain) | 4 | 14 | 43.8% |
 | <a href="https://github.com/meridianlabs-ai/inspect_petri"><img src="https://raw.githubusercontent.com/meridianlabs-ai/inspect_petri/main/docs/images/petri.svg" alt="Inspect Petri logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/inspect_petri">Inspect Petri</a> | [3](https://github.com/meridianlabs-ai/inspect_petri/pulls/deepujain) | 0 | 1 | 33.3% |
 | <a href="https://github.com/NVIDIA/Megatron-LM"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/Megatron-LM">Megatron-LM</a> | [5](https://github.com/NVIDIA/Megatron-LM/pulls/deepujain) | 5 | 0 | 0.0% |
 | <a href="https://github.com/NVIDIA/NemoClaw"><img src="https://raw.githubusercontent.com/NVIDIA/NemoClaw/main/fern/assets/NVIDIA_symbol.svg" alt="NemoClaw logo" height="18"></a> <a href="https://github.com/NVIDIA/NemoClaw">NemoClaw</a> | [106](https://github.com/NVIDIA/NemoClaw/pulls/deepujain) | 5 | 64 | 60.4% |
@@ -32,11 +33,11 @@ These contributions were assisted by Skippy.
 | <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [9](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 5 | 4 | 44.4% |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 | 0.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [8](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 2 | 6 | 75.0% |
-| **Total Contributions** | **301** | **60** | **115** | **38.2%** |
+| **Total Contributions** | **304** | **63** | **115** | **37.8%** |
 
-**Total Contributions:** 301
+**Total Contributions:** 304
 
-**Success Rate:** 38.2% merged (115 of 301)
+**Success Rate:** 37.8% merged (115 of 304)
 
 ## Non-Skippy Contributions
 
