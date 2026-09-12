@@ -30,14 +30,14 @@ These contributions were assisted by Skippy.
 | <a href="https://github.com/openclaw/openclaw"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/ui/public/favicon.svg" alt="OpenClaw logo" height="18"></a> <a href="https://github.com/openclaw/openclaw">OpenClaw</a> | [30](https://github.com/openclaw/openclaw/pulls/deepujain) | 1 | 4 | 13.3% |
 | <a href="https://github.com/NVIDIA/OpenShell"><img src="https://raw.githubusercontent.com/NVIDIA/OpenShell/main/docs/brand/assets/favicon.svg" alt="OpenShell logo" height="18"></a> <a href="https://github.com/NVIDIA/OpenShell">OpenShell</a> | [1](https://github.com/NVIDIA/OpenShell/pulls/deepujain) | 0 | 0 | 0.0% |
 | <a href="https://github.com/pytorch/pytorch"><img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="PyTorch logo" height="18"></a> <a href="https://github.com/pytorch/pytorch">PyTorch</a> | [23](https://github.com/pytorch/pytorch/pulls/deepujain) | 12 | 6 | 26.1% |
-| <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [10](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 5 | 5 | 50.0% |
+| <a href="https://github.com/NVIDIA/SkillSpector"><img src="https://avatars.githubusercontent.com/u/1728152?v=4" alt="NVIDIA logo" height="18"></a> <a href="https://github.com/NVIDIA/SkillSpector">SkillSpector</a> | [10](https://github.com/NVIDIA/SkillSpector/pulls/deepujain) | 3 | 7 | 70.0% |
 | <a href="https://www.schedmd.com/"><img src="https://raw.githubusercontent.com/SchedMD/slurm/master/doc/html/slurm_logo.png" alt="Slurm logo" height="18"></a> <a href="https://www.schedmd.com/">Slurm</a> | [3](https://support.schedmd.com/buglist.cgi?email3=deepujain%40gmail.com&emaillongdesc3=1&emailtype3=substring&list_id=418332&product=Slurm&query_format=advanced&resolution=---) | 3 | 0 | 0.0% |
 | <a href="https://github.com/meridianlabs-ai/ts-mono"><img src="https://avatars.githubusercontent.com/u/196480008?v=4" alt="Meridian Labs logo" height="18"></a> <a href="https://github.com/meridianlabs-ai/ts-mono">ts-mono</a> | [11](https://github.com/meridianlabs-ai/ts-mono/pulls/deepujain) | 5 | 6 | 54.5% |
-| **Total Contributions** | **209** | **62** | **63** | **30.1%** |
+| **Total Contributions** | **209** | **60** | **65** | **31.1%** |
 
 **Total Contributions:** 209
 
-**Success Rate:** 30.1% merged (63 of 209)
+**Success Rate:** 31.1% merged (65 of 209)
 
 ## Non-Skippy Contributions
 
